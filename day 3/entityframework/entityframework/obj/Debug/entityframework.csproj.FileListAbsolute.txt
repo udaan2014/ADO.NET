@@ -1,0 +1,8 @@
+D:\EMP666114\ADO.NET\day 3\entityframework\entityframework\bin\Debug\entityframework.exe.config
+D:\EMP666114\ADO.NET\day 3\entityframework\entityframework\bin\Debug\entityframework.exe
+D:\EMP666114\ADO.NET\day 3\entityframework\entityframework\bin\Debug\entityframework.pdb
+D:\EMP666114\ADO.NET\day 3\entityframework\entityframework\bin\Debug\EntityFramework.dll
+D:\EMP666114\ADO.NET\day 3\entityframework\entityframework\bin\Debug\EntityFramework.xml
+D:\EMP666114\ADO.NET\day 3\entityframework\entityframework\obj\Debug\entityframework.csprojResolveAssemblyReference.cache
+D:\EMP666114\ADO.NET\day 3\entityframework\entityframework\obj\Debug\entityframework.exe
+D:\EMP666114\ADO.NET\day 3\entityframework\entityframework\obj\Debug\entityframework.pdb
